@@ -1,2 +1,1 @@
-# amazon
-hello world assignment from instructor
+# Amazon Cloned Sign-in Page
